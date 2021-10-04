@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Guksu/movie_app/static/css/main.feb31b15.chunk.css",
+    "main.js": "/Guksu/movie_app/static/js/main.576b71d0.chunk.js",
+    "main.js.map": "/Guksu/movie_app/static/js/main.576b71d0.chunk.js.map",
+    "runtime-main.js": "/Guksu/movie_app/static/js/runtime-main.bbc0ac18.js",
+    "runtime-main.js.map": "/Guksu/movie_app/static/js/runtime-main.bbc0ac18.js.map",
+    "static/js/2.744e89ff.chunk.js": "/Guksu/movie_app/static/js/2.744e89ff.chunk.js",
+    "static/js/2.744e89ff.chunk.js.map": "/Guksu/movie_app/static/js/2.744e89ff.chunk.js.map",
+    "index.html": "/Guksu/movie_app/index.html",
+    "static/css/main.feb31b15.chunk.css.map": "/Guksu/movie_app/static/css/main.feb31b15.chunk.css.map",
+    "static/js/2.744e89ff.chunk.js.LICENSE.txt": "/Guksu/movie_app/static/js/2.744e89ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc0ac18.js",
+    "static/js/2.744e89ff.chunk.js",
+    "static/css/main.feb31b15.chunk.css",
+    "static/js/main.576b71d0.chunk.js"
+  ]
+}
